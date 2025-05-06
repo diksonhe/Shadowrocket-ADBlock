@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,dmm
 DOMAIN-KEYWORD,*dmm*
 DOMAIN,dmm.co.jp
 DOMAIN,dmm.co.jp
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,special.dmm.co.jp
+DOMAIN-SUFFIX,video.dmm.co.jp
 DOMAIN,special.dmm.co.jp
 DOMAIN,video.dmm.co.jp
