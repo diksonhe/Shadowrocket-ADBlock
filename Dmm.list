@@ -4,7 +4,7 @@ USER-AGENT,*dmm*
 USER-AGENT,Dmm*
 USER-AGENT,dmm.co.jp,policy*
 DOMAIN-KEYWORD,dmm,policy
-DOMAIN-KEYWORD,*dmm*
+DOMAIN-KEYWORD,dmm
 DOMAIN,dmm.co.jp
 DOMAIN,dmm.co.jp
 DOMAIN-SUFFIX,special.dmm.co.jp
