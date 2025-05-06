@@ -1,5 +1,8 @@
 # 内容：Dmm list
 # 数量：7条
+USER-AGENT,*dmm*
+USER-AGENT,Dmm*
+USER-AGENT,co.dmm.co.jp*
 DOMAIN-KEYWORD,dmm
 DOMAIN,dmm.co.jp
 DOMAIN,dmm.co.jp
