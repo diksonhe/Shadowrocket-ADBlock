@@ -2,9 +2,11 @@
 # 数量：7条
 USER-AGENT,*dmm*
 USER-AGENT,Dmm*
-USER-AGENT,co.dmm.co.jp*
+USER-AGENT,dmm.co.jp*
 DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,*dmm*
 DOMAIN,dmm.co.jp
 DOMAIN,dmm.co.jp
 DOMAIN-SUFFIX,
 DOMAIN,special.dmm.co.jp
+DOMAIN,video.dmm.co.jp
