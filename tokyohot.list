@@ -1,0 +1,7 @@
+USER-AGENT,*my.cdn.tokyo-hot.com*
+USER-AGENT,my.cdn.tokyo-hot.com*
+DOMAIN-KEYWORD,my.cdn.tokyo-hot.com
+DOMAIN-KEYWORD,tokyo-hot,my.cdn.tokyo-hot.com
+DOMAIN-KEYWORD,toky-ohot,my.cdn.tokyo-hot.com
+DOMAIN-SUFFIX,my.cdn.tokyo-hot.com
+DOMAIN,my.cdn.tokyo-hot.com
