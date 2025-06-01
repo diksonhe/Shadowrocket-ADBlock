@@ -1,7 +1,7 @@
-USER-AGENT,*prestige-av*,*tokyo-hot*
+USER-AGENT,*prestige-av*,*tokyo-hot*,my.cdn.tokyo-hot.com
 USER-AGENT,prestige-av*,*tokyo-hot,tokyo-hot*
 DOMAIN-KEYWORD,prestige-av.com,tokyo-hot.com
-DOMAIN-KEYWORD,prestige,tokyo-hot
-DOMAIN-KEYWORD,prestige-av,tokyohot
-DOMAIN-SUFFIX,prestige-av.com,tokyo-hot.com
-DOMAIN,prestige-av.com,tokyo-hot.com
+DOMAIN-KEYWORD,prestige,tokyo-hot,my.cdn.tokyo-hot.com
+DOMAIN-KEYWORD,prestige-av,toky-ohot,my.cdn.tokyo-hot.com
+DOMAIN-SUFFIX,prestige-av.com,tokyo-hot.com,my.cdn.tokyo-hot.com
+DOMAIN,prestige-av.com,tokyo-hot.com,my.cdn.tokyo-hot.com
