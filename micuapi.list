@@ -1,4 +1,4 @@
-USER-AGENT,*micuapi*
+USER-AGENT,*micuapi
 DOMAIN-KEYWORD,micuapi.ai
 DOMAIN-SUFFIX,micuapi.ai
 DOMAIN,api-slb.micuapi.ai,www.micuapi.ai
