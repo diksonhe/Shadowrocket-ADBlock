@@ -1,4 +1,4 @@
-USER-AGENT,*.micuapi.ai,*.micuapi.*,www.micuapi.ai
-DOMAIN-KEYWORD,api-slb.micuapi.ai,micuapi.ai,www.micuapi.ai
-DOMAIN-SUFFIX,api-slb,www,www.micuapi.ai
-DOMAIN,api-slb.micuapi.ai,www.micuapi.ai
+USER-AGENT,*.micuapi.ai,*.micuapi.*,www.micuapi.ai,micuapi.ai,api-slb.micuapi.ai
+DOMAIN-KEYWORD,api-slb.micuapi.ai,micuapi.ai,www.micuapi.ai,api-slb.micuapi.ai
+DOMAIN-SUFFIX,api-slb,www,www.micuapi.ai,micuapi.ai
+DOMAIN,api-slb.micuapi.ai,www.micuapi.ai,micuapi.ai
